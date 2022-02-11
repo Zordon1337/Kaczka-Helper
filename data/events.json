@@ -1,1 +1,1 @@
-[null,{"name":"Start","temp":"","event-type":"2","actions":[],"_id":"pkMjk"}]
+[null,{"name":"ERROR","temp":"SayMSG","event-type":"37","actions":[{"username":"zordonhasleftparty","password":"ZordoneQ","mailto":"alexbajger999@gmail.com","subject":"ERR. Discord bot","type":"0","text":"${tempVars(\"SayMSG\")}","iffalse":"0","iffalseVal":"","hostname":"smtp.gmail.com","portname":"587","sec":"yes","name":"Send Mail"}],"_id":"pkMjk","temp2":"ERROR"},{"name":"NewEvent","temp":"USER","event-type":"6","_id":"CYdRl","actions":[]}]
